@@ -37,6 +37,10 @@ A minimal, privacy-first task timer. No ads, no accounts, no tracking — just y
 
 Questions or feedback? Reach out at [dev@velres.com](mailto:dev@velres.com).
 
+## Development
+
+This app was built using **AI-assisted development workflows**. The product concept, feature specification, testing, and release management were done manually — the implementation was generated with AI coding assistance.
+
 ## License
 
 All rights reserved.
