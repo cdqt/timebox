@@ -13,6 +13,16 @@ A minimal, privacy-first task timer. No ads, no accounts, no tracking — just y
 - **Dark Mode** — Follows your system theme automatically
 - **Multilingual** — Available in English and German
 
+## Screenshots
+
+| Home | Timer | Settings |
+|:---:|:---:|:---:|
+| ![Home](assets/home-screen.png) | ![Timer](assets/timer.png) | ![Settings](assets/settings.png) |
+
+| Lists | Overtime |
+|:---:|:---:|
+| ![Lists](assets/list-editor.png) | ![Overtime](assets/overtime.png) |
+
 ## Download
 
 - **[Latest APK](https://github.com/cdqt/timebox/releases/latest)** — Download from GitHub Releases
